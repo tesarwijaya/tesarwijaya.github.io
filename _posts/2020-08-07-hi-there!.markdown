@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hi There!"
+date:   2020-08-07 21:19:55 +0700
+categories: intro
+---
+Hi There, my name is Tesar Wijaya. Just call me Tesar.
+
+I’m a full-time software engineer working at one of fintech companies in Indonesia. I have about 4 years of experience in software engineering (at least when I write this post). I speak mainly in javascript and golang. I use a wide variety of tools in works such as reactjs, react native, express and so on so forth.
+
+So I decided to start my blog today and share my view or idea about current technology or simply write a tutorial around javascript and golang.
+
+And this is it. A short introduction about me.
+
+Cheers!
